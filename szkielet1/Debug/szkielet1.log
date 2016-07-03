@@ -1,0 +1,4 @@
+﻿  main_file.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\mikołaj waśniewski\desktop\pacman 3d\szkielet1\glfw\glfw3.h(85): note: see previous definition of 'APIENTRY'
+  szkielet1.vcxproj -> C:\Users\Mikołaj Waśniewski\Desktop\Pacman 3D\Debug\szkielet1.exe
